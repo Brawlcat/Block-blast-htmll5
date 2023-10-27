@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "573502758170",
+    "project_id": "blocks-blast-ios",
+    "storage_bucket": "blocks-blast-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573502758170:ios:d05a946dfeab077b06e0a3",
+        "android_client_info": {
+          "package_name": "com.soontothemoon.popblocks"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOV1uVChOWlLiihNi0hS4Bp6F0pteqw80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573502758170-1imfbhc7npaf9lk6md1lld419q0agg9v.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
